@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.Child.unity
+    guid: 7bb3ad84350b37e47a0d9a380433a3ea
+  - enabled: 1
+    path: Assets/Scenes/Foyer.unity
+    guid: ba0033b476c5a3349bfb8ab38431871c
+  - enabled: 1
+    path: Assets/Scenes/TestRoom.unity
+    guid: 65f2ec69d4e66f246a6ac8d023d12b6b
+  m_configObjects: {}

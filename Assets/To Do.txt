@@ -1,0 +1,12 @@
+Mechanics:
+
+- Weapon that stuns with finite uses (uses are tied to in-game items akin to the save system)
+
+- Psychosis-like symptoms as the game progresses (adds-unique ones after each ending)
+
+- Enemies can travel between rooms
+	`If aggroed on player, give between 3-4 seconds before they move rooms
+	`If not aggroed, pick random time between 30-50 seconds for them to move to current player room
+
+- Puzzles/Interactables don't pause time
+	`If enemy enters room while in puzzle/interactable menu, give random float in between 1-2 seconds until unlocking movement
